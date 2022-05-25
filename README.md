@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AlexandreMer or "Major" 
+- 👀 I’m interested in most topic regarding video or data analysis
+- 🌱 I’m currently learning programming, python, algorithms, data sciences
+- 💞️ I’m looking to collaborate on everything that could help you ! <3 
+- 📫 You can reach me on Discord : Père Major #7104 (I am connected 24/7 ..)
+- 
