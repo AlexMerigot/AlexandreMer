@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexandreMer or "Major" 
+- 👋 Hi, I’m Major
 - 👀 I’m interested in most topic regarding video or data analysis
 - 🌱 I’m currently learning programming, python, algorithms, data sciences
 - 💞️ I’m looking to collaborate on everything that could help you ! <3 
